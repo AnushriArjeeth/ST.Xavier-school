@@ -1,0 +1,120 @@
+body
+{
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}                                                              
+
+#schoolname
+{
+    background: linear-gradient(#8338c4 0%, #23b434 100%);
+
+}
+
+#about
+{
+    background: linear-gradient(#23b434 0%, #e94de6 100%); 
+
+}
+
+#hostel
+{
+    background: linear-gradient(#e94de6 0%, #ff9d00 100%);
+
+}
+
+#lib
+{
+    background: linear-gradient(#ff9d00 0%, #f2ff00 100%); 
+      
+}
+#achievments
+{
+    background: linear-gradient(#f2ff00 0%, rgb(251, 255, 132) 100%); 
+
+}
+
+#new
+{
+    background: linear-gradient(rgb(251, 255, 132) 0%, #7bdcff 100%); 
+    text-align: center;  
+  
+    
+ 
+}
+
+#contactus
+{
+    background: linear-gradient(#7bdcff 100%,#53e564 0%); 
+    
+ 
+}
+
+
+
+
+
+
+
+
+
+#contactus iframe
+{
+width:100%;
+}
+
+
+
+
+.movie_header
+{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+
+}
+
+.movie_header i
+{
+    float:right;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
